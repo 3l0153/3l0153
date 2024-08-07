@@ -2,7 +2,7 @@
 - 👀 I’m interested in Yvain
 - 🌱 I’m currently learning Yvain
 - 💞️ I’m looking to collaborate with Yvain
-- 📫 How to reach me, contact Yvain
+- 📫 How to reach me: contact Yvain
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Yvain.
 
