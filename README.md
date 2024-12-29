@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @3l0153
-- 👀 I’m interested in Yvain
-- 🌱 I’m currently learning Yvain
-- 💞️ I’m looking to collaborate with Yvain
-- 📫 How to reach me: contact Yvain
+- 👀 I’m interested in 
+- 🌱 I’m currently learning
+- 💞️ I’m looking to collaborate with
+- 📫 How to reach me: contact
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: Yvain.
+- ⚡ Fun fact: .
 
 <!---
 3l0153/3l0153 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
